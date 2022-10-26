@@ -1,0 +1,15 @@
+{
+  "name": "tailwind_update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "maju": "npx tailwindcss -i ./input.css -o ./output.css --wacth"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
